@@ -1,0 +1,22 @@
+{
+  "decision_time": "2026-11-24T12:00:00Z",
+  "max_age_seconds": 90,
+  "snapshots": [
+    {
+      "source": "feed-a",
+      "chain_id": "demo:chain-a",
+      "asset_id": "demo:asset-a",
+      "quote_unit": "USD",
+      "metric": "spot_mid",
+      "observed_at": "2026-11-24T11:59:50Z"
+    },
+    {
+      "source": "feed-b",
+      "chain_id": "demo:chain-a",
+      "asset_id": "demo:asset-a",
+      "quote_unit": "USD",
+      "metric": "spot_mid",
+      "observed_at": "2026-11-24T11:52:00Z"
+    }
+  ]
+}

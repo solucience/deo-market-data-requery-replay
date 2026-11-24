@@ -1,0 +1,12 @@
+{
+  "full_refresh_sources": [
+    "feed-a",
+    "feed-b"
+  ],
+  "targeted_refresh_sources": [
+    "feed-b"
+  ],
+  "planned_full_refresh_calls": 2,
+  "planned_targeted_refresh_calls": 1,
+  "planned_calls_avoided": 1
+}
